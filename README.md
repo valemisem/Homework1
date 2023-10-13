@@ -1,6 +1,6 @@
 # **Commands for restructuring Git commits**
 
-## 1. git pull and git push
+## 1. git pull and git fetch
 
 ![Git pull and fetch both copy changes from a remote GitHub or GitLab repo locally](https://itknowledgeexchange.techtarget.com/coffee-talk/files/2023/05/gf03.gif)
 
